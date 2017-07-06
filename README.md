@@ -1,4 +1,4 @@
-***made this app for our assignment.
+***Made this app for our assignment.
 
 
 ![](http://i.imgur.com/QVI0V5V.png)
