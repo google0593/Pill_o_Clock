@@ -1,4 +1,4 @@
-***Made this app for our assignment.
+***Made this app for our assignment. This app is also available on the player store.
 
 
 ![](http://i.imgur.com/QVI0V5V.png)
