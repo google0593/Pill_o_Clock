@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "project_number": "590153018655",
+    "firebase_url": "https://pill-oclock-firebase.firebaseio.com",
+    "project_id": "pill-oclock-firebase",
+    "storage_bucket": "pill-oclock-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590153018655:android:a393a7ddaf48cba4",
+        "android_client_info": {
+          "package_name": "com.example.bananasandpajamas.pilloclock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590153018655-b3mg8q8kf7tmu62vapvorkimoccpogvt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bananasandpajamas.pilloclock",
+            "certificate_hash": "f9fc8194b0ce00525c365be4001d8a21ec87540d"
+          }
+        },
+        {
+          "client_id": "590153018655-nmo0qgdqa3u0ut7tb34tivqq5kk7cul0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bananasandpajamas.pilloclock",
+            "certificate_hash": "91a541e97f291619410d90e4734d1d474a8d514c"
+          }
+        },
+        {
+          "client_id": "590153018655-6hnhj1vl7f47v1h7dl3eqdmltuve2q7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bananasandpajamas.pilloclock",
+            "certificate_hash": "eca53d79291960789737a53a4ea0ee4b647fe557"
+          }
+        },
+        {
+          "client_id": "590153018655-4eti7r9b56cd0g5ri8pt733j80updmpt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bananasandpajamas.pilloclock",
+            "certificate_hash": "cb1b38f87467f535a7faf8d7bf145b5915c43096"
+          }
+        },
+        {
+          "client_id": "590153018655-fpkd32rfr4k9p8vshvj92s67n66ec0hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bananasandpajamas.pilloclock",
+            "certificate_hash": "503d78208edd9a79288aeed044557bd22c9a5023"
+          }
+        },
+        {
+          "client_id": "590153018655-2s4m7kikjq97h618u1ti4hqhoe1b0gv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bananasandpajamas.pilloclock",
+            "certificate_hash": "e02147b60476a3650d2b7eba7e09f99658304b6a"
+          }
+        },
+        {
+          "client_id": "590153018655-0lbtve8sjin3ppc5t7cieft5ha30e53l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl7AXJwpLbq38D8HUyIxl_SluTqyN9mZg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590153018655-0lbtve8sjin3ppc5t7cieft5ha30e53l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590153018655:android:e0e12afd9ae655f9",
+        "android_client_info": {
+          "package_name": "com.agile.bananasandpajamas.pilloclock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590153018655-1hd4q3fe0vdk46mcu4ddsh9s3so7otna.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agile.bananasandpajamas.pilloclock",
+            "certificate_hash": "91a541e97f291619410d90e4734d1d474a8d514c"
+          }
+        },
+        {
+          "client_id": "590153018655-0lbtve8sjin3ppc5t7cieft5ha30e53l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl7AXJwpLbq38D8HUyIxl_SluTqyN9mZg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590153018655-0lbtve8sjin3ppc5t7cieft5ha30e53l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590153018655:android:5e5087dad2014859",
+        "android_client_info": {
+          "package_name": "com.agile.bananasandpajamas.medreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590153018655-0lbtve8sjin3ppc5t7cieft5ha30e53l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl7AXJwpLbq38D8HUyIxl_SluTqyN9mZg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590153018655:android:fc08a792d4eee221",
+        "android_client_info": {
+          "package_name": "com.pilloclock.medicinereminder.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590153018655-4pudb3vuuh83gdc35vdki5qs8cipuje7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pilloclock.medicinereminder.app",
+            "certificate_hash": "91a541e97f291619410d90e4734d1d474a8d514c"
+          }
+        },
+        {
+          "client_id": "590153018655-0lbtve8sjin3ppc5t7cieft5ha30e53l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl7AXJwpLbq38D8HUyIxl_SluTqyN9mZg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590153018655-0lbtve8sjin3ppc5t7cieft5ha30e53l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/watch_vid"
+        android:title="Watch our Video" />
+    <item
+        android:id="@+id/read_docu"
+        android:title="Document" />
+    <item
+        android:id="@+id/nav_signout"
+        android:title="Sign out" />
+</menu>

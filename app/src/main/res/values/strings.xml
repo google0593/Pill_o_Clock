@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Pill o\'Clock - Medicine Reminder</string>
+    <string name="facebook_application_id" translatable="false">763148120529201</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb763148120529201</string>
+
+    <string-array name="amount">
+        <item>tablet</item>
+        <item>tbsp</item>
+        <item>tsp</item>
+        <item>mL</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="grid_layout_manager">Grid Button</string>
+    <string name="linear_layout_manager">Lin Button</string>
+    <string name="amount">Amount</string>
+    <string name="next_notification">Next Reminder:</string>
+    <string name="amount_">Amount:</string>
+    <string name="next_reminder">Next Reminder</string>
+    <string name="text_view">Medicine Name</string>
+    <string name="testing">ok</string>
+    <string name="logout">Logout</string>
+    <string name="start_time">Start Time:</string>
+    <string name="amount_here">amount here</string>
+    <string name="start_time_here">start time here</string>
+    <string name="set_start_time">Set Start Time</string>
+    <string name="every">Every:</string>
+    <string name="hour">hour</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">name</string>
+    <string name="user_photo">User Photo</string>
+    <string name="parse_debug">parse debug</string>
+    <string name="medicine_name">Medicine Name</string>
+    <string name="amount_hint">Amount</string>
+    <string name="name_map">Name</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="address">Address</string>
+    <string name="update_pharmacy">update Pharmacy</string>
+    <string name="action_bar">Pill o\'Clock</string>
+</resources>
